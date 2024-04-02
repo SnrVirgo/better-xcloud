@@ -1,0 +1,7 @@
+{
+  "name": "SnowRunner",
+  "default_layout": "custom",
+  "layouts": [
+    "snowrunner"
+  ]
+}
